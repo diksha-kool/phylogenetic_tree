@@ -2,9 +2,9 @@
 Python code to run UPGMA algorithm on WNT3 gene distance after alignment.
 
 Usage: python3.7 phylotree.py <Distance Matrix file path> <optional: Debug message>
-## Two agruments:
-## 1. File path for DistanceMatrix data file
-## 2. (Optional) - Debug message enabled
+Two agruments:
+1. File path for DistanceMatrix data file
+2. (Optional) - Debug message enabled
   
 Distance Matric File Format:
 <Species_0> <space separated distance matrix row values>
